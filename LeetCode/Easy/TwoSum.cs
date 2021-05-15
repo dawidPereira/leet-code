@@ -19,9 +19,9 @@ namespace LeetCode.Easy
 
     */
 
-    public class Two_Sum
+    public class TwoSum
     {
-        public int[] TwoSum(int[] nums, int target)
+        public int[] GetNumbersSum(int[] nums, int target)
         {
 
             if (nums?.Length < 2)
